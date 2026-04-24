@@ -2,23 +2,6 @@
 
 *These questions have no right or wrong answer. They should allow the candidate to provide full responses. The interviewers here are not just looking for complete answers but also keeping track of HOW a candidate responds (rambles, gets distracted, doesn't answer the question, etc.).*
 
-## People Questions ##
-
-1. Do you have a blog and, if so, what is the URL? *@digininja*
-2. Do you contribute to open source projects and, if so, which and at what level? *@digininja*
-3. How do you participate in the information security community? *@jstnkndy*
-4. What conferences do you attend? *@digininja*
-5. What conferences have you spoken at? *@digininja*
-6. Name a couple of people in the industry that you'd look to for advice/trust their advice. *Asking this to make sure they are active and know who does what, if they are claiming to be wifi experts and don't name people like Josh Wright then they are lying.* *@digininja*
-7. What methods or sources of information do you use for keeping up to date in the security industry? *@jstnkndy*
-8. If you could have any job in infosec, what would it be an why? *@webbreacher*
-9. What is the coolest thing you have done in infosec? *@webbreacher*
-10. Why would you like to work here? *@webbreacher*
-11. Describe how you learn best? *@webbreacher*
-12. What was the last or most interesting tech project you worked on in your personal time *@cdiaz1971*
-13. Have you participated in any Capture The Flag (CTF) competitions? *@sml555_*
-14. Have you created any CTF challenges (as an organiser)? *@sml555_*
-
 ## Tech Questions ##
 
 ### General Pentest ###
