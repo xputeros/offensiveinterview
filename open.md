@@ -1,29 +1,3 @@
-# Open-ended Questions #
-
-*These questions have no right or wrong answer. They should allow the candidate to provide full responses. The interviewers here are not just looking for complete answers but also keeping track of HOW a candidate responds (rambles, gets distracted, doesn't answer the question, etc.).*
-
-## Tech Questions ##
-
-### General Pentest ###
-
-1. You are performing a blackbox penetration test for a client. The only allowable attack vectors are network and application level attacks. Where do you start?
-    1. Describe how you would find all domains associated with the client *(if they didn’t answer)*
-    2. Describe how you would find all network ranges associated with the client. *(if they didn’t answer)*
-2. During the penetration test you find an instance of Outlook Web Access belonging to the client. Describe how you would attack this.
-    1. Describe how you would find potential usernames to use. *(if they didn’t answer)*
-    2. Describe how you would pick which passwords to use. *(if they didn’t answer)*
-    3. Describe how you would avoid account lockouts. *(if they didn’t answer)*
-3. If you run the following scan without root privileges, describe what would happen: ```nmap www.google.com```
-    1. What kind of scan was performed? *(if they didn’t answer)*
-    2. How many ports were scanned? *(if they didn’t answer)*
-    3. If you ran the same command as root, describe the differences. *(if they didn’t answer)*
-4. You are launching a Metasploit reverse https meterpreter payload against a host that you know is vulnerable to your attack, but once you type “exploit” nothing happens after it launches the attack, how would you debug this (or what would you change to get your meterpreter session?) 
-5. You have successfully initiated a meterpreter session against a Windows host. What type of post exploitation do you perform? 
-    1. How would you extract the local password hashes?
-    2. How would you gather cleartext credentials from the machine?
-        1. In your report, what would your recommendation be to prevent this? 
-    3. You attempt to run mimikatz but error occurs, how do you debug this? (or what would you do to try and fix the error?)
-6. Using the same meterpreter session as previous, you are able to dump the local machine hashes, describe what you would do with these. 
 7. You are performing an onsite penetration test. You do not want to perform any active scanning. How would you gather credentials? 
     1. What types of attack could you execute with them? 
 8. Suppose you have physical access to a machine on a corporate domain that you are testing. It is connected to their network. You don't have credentials for the domain or local machine. You also have your own laptop. How would you begin testing? 
