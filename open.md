@@ -6,35 +6,35 @@
 
 ### General Pentest ###
 
-1. You are performing a blackbox penetration test for a client. The only allowable attack vectors are network and application level attacks. Where do you start?  *@jstnkndy*
+1. You are performing a blackbox penetration test for a client. The only allowable attack vectors are network and application level attacks. Where do you start?
     1. Describe how you would find all domains associated with the client *(if they didn’t answer)*
     2. Describe how you would find all network ranges associated with the client. *(if they didn’t answer)*
-2. During the penetration test you find an instance of Outlook Web Access belonging to the client. Describe how you would attack this. *@jstnkndy*
+2. During the penetration test you find an instance of Outlook Web Access belonging to the client. Describe how you would attack this.
     1. Describe how you would find potential usernames to use. *(if they didn’t answer)*
     2. Describe how you would pick which passwords to use. *(if they didn’t answer)*
     3. Describe how you would avoid account lockouts. *(if they didn’t answer)*
-3. If you run the following scan without root privileges, describe what would happen: ```nmap www.google.com``` *@jstnkndy*
+3. If you run the following scan without root privileges, describe what would happen: ```nmap www.google.com```
     1. What kind of scan was performed? *(if they didn’t answer)*
     2. How many ports were scanned? *(if they didn’t answer)*
     3. If you ran the same command as root, describe the differences. *(if they didn’t answer)*
-4. You are launching a Metasploit reverse https meterpreter payload against a host that you know is vulnerable to your attack, but once you type “exploit” nothing happens after it launches the attack, how would you debug this (or what would you change to get your meterpreter session?) *@jstnkndy*
-5. You have successfully initiated a meterpreter session against a Windows host. What type of post exploitation do you perform? *@jstnkndy*
+4. You are launching a Metasploit reverse https meterpreter payload against a host that you know is vulnerable to your attack, but once you type “exploit” nothing happens after it launches the attack, how would you debug this (or what would you change to get your meterpreter session?) 
+5. You have successfully initiated a meterpreter session against a Windows host. What type of post exploitation do you perform? 
     1. How would you extract the local password hashes?
     2. How would you gather cleartext credentials from the machine?
-        1. In your report, what would your recommendation be to prevent this? *@leesoh*
+        1. In your report, what would your recommendation be to prevent this? 
     3. You attempt to run mimikatz but error occurs, how do you debug this? (or what would you do to try and fix the error?)
-6. Using the same meterpreter session as previous, you are able to dump the local machine hashes, describe what you would do with these. *@jstnkndy*
-7. You are performing an onsite penetration test. You do not want to perform any active scanning. How would you gather credentials? *@jstnkndy*
-    1. What types of attack could you execute with them? *@leesoh*
-8. Suppose you have physical access to a machine on a corporate domain that you are testing. It is connected to their network. You don't have credentials for the domain or local machine. You also have your own laptop. How would you begin testing? *@jstnkndy*
+6. Using the same meterpreter session as previous, you are able to dump the local machine hashes, describe what you would do with these. 
+7. You are performing an onsite penetration test. You do not want to perform any active scanning. How would you gather credentials? 
+    1. What types of attack could you execute with them? 
+8. Suppose you have physical access to a machine on a corporate domain that you are testing. It is connected to their network. You don't have credentials for the domain or local machine. You also have your own laptop. How would you begin testing? 
 9. How would you avoid anti virus?
 10. How would you target a database that you know lies behing a jump server with an unkown IP address?
 11. What are commonly vulnerable ports/services/applications?
 12. You have unprivileged Windows credentials, how can you elevate your privileges?
 13. How can SQL Injection lead to remote code execution?
-14. You have a SYSTEM shell on an AD workstation. Describe the process you would take to escalate to Domain Admin. *@leesoh*
-15. What was your favourite penetration test moment, and why? *@leesoh*
-16. When you are on an engagement, how do you manage client data? *@leesoh Look specifically for awareness of the risk of exposure, encryption, and deletion once the engagement is complete.*
+14. You have a SYSTEM shell on an AD workstation. Describe the process you would take to escalate to Domain Admin. 
+15. What was your favourite penetration test moment, and why? 
+16. When you are on an engagement, how do you manage client data? Look specifically for awareness of the risk of exposure, encryption, and deletion once the engagement is complete.*
 
 ### Crypto/Hashes/Passwords ###
 
