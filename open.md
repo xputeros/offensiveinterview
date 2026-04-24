@@ -1,15 +1,3 @@
-7. You are performing an onsite penetration test. You do not want to perform any active scanning. How would you gather credentials? 
-    1. What types of attack could you execute with them? 
-8. Suppose you have physical access to a machine on a corporate domain that you are testing. It is connected to their network. You don't have credentials for the domain or local machine. You also have your own laptop. How would you begin testing? 
-9. How would you avoid anti virus?
-10. How would you target a database that you know lies behing a jump server with an unkown IP address?
-11. What are commonly vulnerable ports/services/applications?
-12. You have unprivileged Windows credentials, how can you elevate your privileges?
-13. How can SQL Injection lead to remote code execution?
-14. You have a SYSTEM shell on an AD workstation. Describe the process you would take to escalate to Domain Admin. 
-15. What was your favourite penetration test moment, and why? 
-16. When you are on an engagement, how do you manage client data? Look specifically for awareness of the risk of exposure, encryption, and deletion once the engagement is complete.*
-
 ### Crypto/Hashes/Passwords ###
 
 1. What is the relevance of WPAD on a penetration test and how can it be leveraged? *@jstnkndy*
