@@ -1,5 +1,3 @@
-TODO -> organize the questions with their answers in obsidian
-
 ### Crypto/Hashes/Passwords ###
 
 1. What is the relevance of WPAD on a penetration test and how can it be leveraged? *@jstnkndy*
